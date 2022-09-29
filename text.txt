@@ -1,0 +1,9 @@
+ES6:
+
+introduce : 
+1. let and const,
+2. default arguments,
+3. destructing,
+4. object poperties,
+5. template strings,
+6. arrow function
